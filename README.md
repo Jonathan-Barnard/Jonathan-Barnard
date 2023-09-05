@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on how to combine chemical engineering and machine learning.
+- 💬 Ask me about computer vision and text recognition, numerical simulation, GPU computing and physics informed neural networks.
+- 🌱 I’m currently learning about data structures and algorithms using the C++ language.
+
 <!--
 **Jonathan-Barnard/Jonathan-Barnard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
